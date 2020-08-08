@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/card-page-website/static/css/main.7828f1d3.chunk.css",
+    "main.js": "/card-page-website/static/js/main.3168651b.chunk.js",
+    "main.js.map": "/card-page-website/static/js/main.3168651b.chunk.js.map",
+    "runtime-main.js": "/card-page-website/static/js/runtime-main.18ecaf58.js",
+    "runtime-main.js.map": "/card-page-website/static/js/runtime-main.18ecaf58.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/card-page-website/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.907611aa.chunk.js": "/card-page-website/static/js/2.907611aa.chunk.js",
+    "static/js/2.907611aa.chunk.js.map": "/card-page-website/static/js/2.907611aa.chunk.js.map",
+    "index.html": "/card-page-website/index.html",
+    "precache-manifest.417e029e4d1e7ab7f04e1b784d247b9e.js": "/card-page-website/precache-manifest.417e029e4d1e7ab7f04e1b784d247b9e.js",
+    "service-worker.js": "/card-page-website/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/card-page-website/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.7828f1d3.chunk.css.map": "/card-page-website/static/css/main.7828f1d3.chunk.css.map",
+    "static/js/2.907611aa.chunk.js.LICENSE.txt": "/card-page-website/static/js/2.907611aa.chunk.js.LICENSE.txt",
+    "static/media/ArgumentList.css": "/card-page-website/static/media/bg-picture.6be08049.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18ecaf58.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.907611aa.chunk.js",
+    "static/css/main.7828f1d3.chunk.css",
+    "static/js/main.3168651b.chunk.js"
+  ]
+}
