@@ -7,7 +7,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <Hero title="Lorem Ipsum Dolore"/>
+                <Hero title="The SHOCKING truth about Bill Gates (FACTS only!)"/>
                 <ArgumentList/>
             </div>
         );
