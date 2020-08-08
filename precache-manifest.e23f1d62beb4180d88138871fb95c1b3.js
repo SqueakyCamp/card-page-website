@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16925bb650e97736e4e946f4d56a3941",
+    "revision": "365f2ea78af2d73530420175587ef34f",
     "url": "/card-page-website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/card-page-website/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "2a0a15107d4136826785",
-    "url": "/card-page-website/static/css/main.7828f1d3.chunk.css"
+    "revision": "5a9e6dd2ff46c5bb0635",
+    "url": "/card-page-website/static/css/main.fc40f752.chunk.css"
   },
   {
     "revision": "cbe42e7077c38253084f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/card-page-website/static/js/2.907611aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a0a15107d4136826785",
-    "url": "/card-page-website/static/js/main.3168651b.chunk.js"
+    "revision": "5a9e6dd2ff46c5bb0635",
+    "url": "/card-page-website/static/js/main.00709937.chunk.js"
   },
   {
     "revision": "8a4aad32f93a18c0f9c0",
